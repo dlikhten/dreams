@@ -1,0 +1,3 @@
+Solution to the http://wouter.coekaerts.be/2012/puzzle-dreams puzzle.
+
+Solution is explained in Dream.java...
